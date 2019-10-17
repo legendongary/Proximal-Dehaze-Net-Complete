@@ -26,7 +26,7 @@ We provide several trained models for directly network evaluation. The models ar
 
 #### Training
 
-To train our network, the training dataset must be generated first. We offer the training images and code to generate training data. Please download from [Baiduyun](https://pan.baidu.com/s/1WHthBHSP9FcLaZ1OKyakow ) (code: yp7g). After generating training data, move them to `./data/train/` or modify `opts.imdbPath` in each training file to the data path.
+To train our network, the training dataset must be generated first. We offer the training images and code to generate training data. Please download from [Baiduyun](https://pan.baidu.com/s/1DOBd_rJW8Owz-km5mQNySQ). After generating training data, move them to `./data/train/` or modify `opts.imdbPath` in each training file to the data path.
 
 Run following code will then train all networks:
 
